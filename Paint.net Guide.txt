@@ -1,0 +1,12 @@
+1. Open up your weapon's mesh in NifSkope
+2. Press G (disable grid), T (changes to top view) and Alt+T (disables textures)
+3. Press the screenshot button in NifSkope, set the JPEG Quality to 100% and the image size to 1x and save the image to the NifSkope directory.
+4. Go to your NifSkope folder\screenshots and open your screenshot
+5. If it's a melee weapon, rotating it by -55° and flipping it horizontaly (go to Image -> Flip horizontal) seems the closest to the M.U.I. default (Ctrl+Shift+Z -> first field to 55°). If it's a gun, be sure that the barrel is facing the left (go to Image -> Flip horizontal if not)
+6. Select your model with the magic wand (75%) and cut it (Ctrl+X)
+7. Create a new image (File -> New...). Disable maintain aspect ratio and make it 252x96 (252 width x 96 height). Set the resolution to 100 pixels / inch.
+8. Use the magic wand to delete (delete key) the white background and paste (Ctrl+V) your weapon into the new image (keep canvas size).
+9. Resize your weapon until it fits your new image. If it's a sidearm / pistol / revolver / short firearm, try resizing it to 170x96 (170 width x 96 height) after resizing it to fit. If it's a longer firearm, try resizing it by X3s (93, 83, 73, 63, 53...)
+10. Press Ctrl+Shift+T and adjust the brightness to 100 (this helps to get rid of any detail and make the image mostly white), press Ctrl+Shift+G (to get rid of any extra color), and press F4 to adjust the layers' opacity. Set it to 204 (80% of 255).
+11. Save your icon as a .dds file to textures/MUX/Weapon/Right with your weapon's editor ID as its name (save with BC2 compression, perceptual error metric and no cube maps or mip maps)
+12. Mirror you icon horizontaly and save it to textures/MUX/Weapon/Left
