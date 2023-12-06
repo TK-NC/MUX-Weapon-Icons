@@ -2,8 +2,12 @@
 Some icon packs for M.U.X. for a plethora of mods.
 # Requirements
 - [M.U.X.](https://www.nexusmods.com/newvegas/mods/80642)
+# Contributor Credits
+[Anro19](https://www.nexusmods.com/newvegas/users/139482288) (some of the icons from the original mod are included here)
+[Me!](https://github.com/TK-NC)
+[ZhangShutao](https://github.com/ZhangShutao) [Heffy's AKs and AR15s - Remade Pack](https://github.com/TK-NC/MUX-Weapon-Icons/pull/1)
 # Included Icons and credits
-- [M.U.X.](https://www.nexusmods.com/newvegas/mods/80642) by [Anro19](https://www.nexusmods.com/newvegas/users/139482288) (some of the icons from the original mod are included here)
+- [M.U.X.](https://www.nexusmods.com/newvegas/mods/80642) by [Anro19](https://www.nexusmods.com/newvegas/users/139482288)
 - [A World Of Pain](https://www.nexusmods.com/newvegas/mods/38719) by [djmystro](https://www.nexusmods.com/newvegas/users/1080388)
 - [A World Of Pain Fallout 3](https://www.nexusmods.com/newvegas/mods/66265) by [RoyBatterian](https://www.nexusmods.com/newvegas/users/7481963)
 - [A World Of Pain Revisions](https://www.nexusmods.com/newvegas/mods/76133) by [Athelbras](https://www.nexusmods.com/newvegas/users/7481963)
@@ -20,6 +24,7 @@ Some icon packs for M.U.X. for a plethora of mods.
 - [The Frontier Add-Ons](https://www.nexusmods.com/newvegas/mods/71201) by [MysteryMachineX](https://www.nexusmods.com/newvegas/users/3123107)
 - [Game Rifle](https://www.nexusmods.com/newvegas/mods/76433) by [Sweet6Shooter](https://www.nexusmods.com/newvegas/users/2443503) (model by [deRuyter](https://www.nexusmods.com/newvegas/users/1524024))
 - [Guitar Case Guns](https://www.nexusmods.com/newvegas/mods/55616) by [clintmich](https://www.nexusmods.com/newvegas/users/1520317) and [sabinaguerrero](https://www.nexusmods.com/newvegas/users/84156683)
+- [Heffy's AKs and AR15s - Remade](https://www.nexusmods.com/newvegas/mods/77576) by [NightshiftMike23](https://www.nexusmods.com/newvegas/users/38784155)
 - [Masters of the Madre](https://www.nexusmods.com/newvegas/mods/72107) by [PlatinumShad0w](https://www.nexusmods.com/newvegas/users/40672115)
 - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108) by [RoyBatterian](https://www.nexusmods.com/newvegas/users/7481963)
 - [Photon Laser Weapon Pack](https://www.nexusmods.com/newvegas/mods/64384) by [quicksilver500](https://www.nexusmods.com/newvegas/users/39745560)
