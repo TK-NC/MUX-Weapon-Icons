@@ -3,9 +3,9 @@ Some icon packs for M.U.X. for a plethora of mods.
 # Requirements
 - [M.U.X.](https://www.nexusmods.com/newvegas/mods/80642)
 # Contributor Credits
-[Anro19](https://www.nexusmods.com/newvegas/users/139482288) (some of the icons from the original mod are included here)
-[Me!](https://github.com/TK-NC)
-[ZhangShutao](https://github.com/ZhangShutao) [Heffy's AKs and AR15s - Remade Pack](https://github.com/TK-NC/MUX-Weapon-Icons/pull/1)
+- [Anro19](https://www.nexusmods.com/newvegas/users/139482288) (some of the icons from the original mod are included here)
+- [Me!](https://github.com/TK-NC)[ZhangShutao](https://github.com/ZhangShutao)
+- [Heffy's AKs and AR15s - Remade Pack](https://github.com/TK-NC/MUX-Weapon-Icons/pull/1)
 # Included Icons and credits
 - [M.U.X.](https://www.nexusmods.com/newvegas/mods/80642) by [Anro19](https://www.nexusmods.com/newvegas/users/139482288)
 - [A World Of Pain](https://www.nexusmods.com/newvegas/mods/38719) by [djmystro](https://www.nexusmods.com/newvegas/users/1080388)
