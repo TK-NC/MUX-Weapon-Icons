@@ -1,7 +1,7 @@
 # MUX-Weapon-Icons
 Some icon packs for M.U.X. for a plethora of mods.
 # Requirements
-- [M.U.X.](https://www.nexusmods.com/newvegas/mods/80642)
+- [M.U.X.](https://www.nexusmods.com/newvegas/mods/80642) (this is the only actual requirement for this mod, the others are just to list the mods that packs have been made for).
 # Contributor Credits
 - [Anro19](https://www.nexusmods.com/newvegas/users/139482288) (some of the icons from the original mod are included here)
 - [Me!](https://github.com/TK-NC)
