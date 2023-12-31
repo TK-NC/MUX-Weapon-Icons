@@ -8,5 +8,6 @@
 8. Use the magic wand to delete (delete key) the white background and paste (Ctrl+V) your weapon into the new image (keep canvas size).
 9. Resize your weapon until it fits your new image. If it's a sidearm / pistol / revolver / short firearm, try resizing it to 170x96 (170 width x 96 height) after resizing it to fit. If it's a longer firearm, try resizing it by X3s (93, 83, 73, 63, 53...)
 10. Press Ctrl+Shift+T and adjust the brightness to 100 (this helps to get rid of any detail and make the image mostly white), press Ctrl+Shift+G (to get rid of any extra color), and press F4 to adjust the layers' opacity. Set it to 204 (80% of 255).
-11. Save your icon as a .dds file to textures/MUX/Weapon/Right with your weapon's editor ID as its name (save with BC2 compression, perceptual error metric and no cube maps or mip maps)
-12. Mirror you icon horizontaly and save it to textures/MUX/Weapon/Left
+11. If your weapon is an "akimbo" (dual wield), place the second object of your weapon on the bottom left corner with a 52x52 size (see RX's icons and Millenia icons for examples)
+12. Save your icon as a .dds file to textures/MUX/Weapon/Right with your weapon's editor ID as its name (save with BC2 compression, perceptual error metric and no cube maps or mip maps)
+13. Mirror you icon horizontaly and save it to textures/MUX/Weapon/Left

@@ -45,3 +45,4 @@ Some icon packs for M.U.X. for a plethora of mods.
 - [Washington's Malevolence](https://www.nexusmods.com/newvegas/mods/75027) by [TheJanitorDave](https://www.nexusmods.com/newvegas/users/179387130)
 - [Weather Report and Bio-Electric Displacer](https://www.nexusmods.com/newvegas/mods/76961) by [Sweet6Shooter](https://www.nexusmods.com/newvegas/users/2443503)
 - [The Widow Shotgun](https://www.nexusmods.com/newvegas/mods/72603) by [xGeorge](https://www.nexusmods.com/newvegas/users/19549744)
+- [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213) by [zealotlee](https://www.nexusmods.com/newvegas/users/497446)
