@@ -43,6 +43,8 @@ Some icon packs for M.U.X. for a plethora of mods.
 - [TTW CFEE](https://www.nexusmods.com/newvegas/mods/73827) by [ashjay101](https://www.nexusmods.com/newvegas/users/15047899)
 - [TTW](https://taleoftwowastelands.com/) by [The TTW Team](https://taleoftwowastelands.com/)
 - [Washington's Malevolence](https://www.nexusmods.com/newvegas/mods/75027) by [TheJanitorDave](https://www.nexusmods.com/newvegas/users/179387130)
+- [Wasteland AR Pack](https://www.nexusmods.com/newvegas/mods/81870) by [anonx1987](https://www.nexusmods.com/newvegas/users/102664373)
+- [Wasteland AR Addon](https://www.nexusmods.com/newvegas/mods/83107) by [Nadie2283](https://www.nexusmods.com/newvegas/users/40341965)
 - [Weather Report and Bio-Electric Displacer](https://www.nexusmods.com/newvegas/mods/76961) by [Sweet6Shooter](https://www.nexusmods.com/newvegas/users/2443503)
 - [The Widow Shotgun](https://www.nexusmods.com/newvegas/mods/72603) by [xGeorge](https://www.nexusmods.com/newvegas/users/19549744)
 - [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213) by [zealotlee](https://www.nexusmods.com/newvegas/users/497446)
