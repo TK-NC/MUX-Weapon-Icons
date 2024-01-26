@@ -31,6 +31,7 @@ Some icon packs for M.U.X. for a plethora of mods.
 - [Guitar Case Guns](https://www.nexusmods.com/newvegas/mods/55616) by [clintmich](https://www.nexusmods.com/newvegas/users/1520317) and [sabinaguerrero](https://www.nexusmods.com/newvegas/users/84156683)
 - [Heffy's AKs and AR15s - Remade](https://www.nexusmods.com/newvegas/mods/77576) by [NightshiftMike23](https://www.nexusmods.com/newvegas/users/38784155)
 - [Hit - Crossbow](https://www.nexusmods.com/newvegas/mods/77649) by [hitman47101](https://www.nexusmods.com/newvegas/users/3502667)
+- [Hit - RPD](https://www.nexusmods.com/newvegas/mods/84628) by [hitman47101](https://www.nexusmods.com/newvegas/users/3502667)
 - [Masters of the Madre](https://www.nexusmods.com/newvegas/mods/72107) by [PlatinumShad0w](https://www.nexusmods.com/newvegas/users/40672115)
 - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108) by [RoyBatterian](https://www.nexusmods.com/newvegas/users/7481963)
 - [Photon Laser Weapon Pack](https://www.nexusmods.com/newvegas/mods/64384) by [quicksilver500](https://www.nexusmods.com/newvegas/users/39745560)
