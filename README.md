@@ -41,6 +41,7 @@ Some icon packs for M.U.X. for a plethora of mods.
 - [Hit - Crossbow](https://www.nexusmods.com/newvegas/mods/77649) by [hitman47101](https://www.nexusmods.com/newvegas/users/3502667)
 - [Hit - KRISS Vector](https://www.nexusmods.com/newvegas/mods/85087) by [hitman47101](https://www.nexusmods.com/newvegas/users/3502667)
 - [Hit - RPD](https://www.nexusmods.com/newvegas/mods/84628) by [hitman47101](https://www.nexusmods.com/newvegas/users/3502667)
+- [M60 - M60E3 REDUX FNV](https://www.nexusmods.com/newvegas/mods/84825) by [Nadie2283](https://www.nexusmods.com/newvegas/users/40341965)
 - [Marlin Thumper](https://www.nexusmods.com/newvegas/mods/82555) by [anonx1987](https://www.nexusmods.com/newvegas/users/102664373)
 - [Masters of the Madre](https://www.nexusmods.com/newvegas/mods/72107) by [PlatinumShad0w](https://www.nexusmods.com/newvegas/users/40672115)
 - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108) by [RoyBatterian](https://www.nexusmods.com/newvegas/users/7481963)
